@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing new thing with project.
 - 🌱 I’m a user friendly App & Web developer. 
 - 💞️ I’m looking to collaborate on server Security.
-- 📫 How to reach me shishirbhuiyan83@gmail.com
+- 📫 How to reach me 
  https://Shishirbhuiyan.netlify.app
 
 <!---
